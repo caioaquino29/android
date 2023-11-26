@@ -1,3 +1,3 @@
-# android
-###criei um site da história do mascote do android....
-#<a href="https://caioaquino29.github.io/android/"> site_android </a>
+# Android 🤖
+### criei um site da história do mascote do android....
+<strong><a href="https://caioaquino29.github.io/android/"> site_android </strong>
